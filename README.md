@@ -8,4 +8,5 @@ Added text from web browser
 Now from local PC
 
 new text in a new branch
-added conflict
+
+added conflict text from web 
